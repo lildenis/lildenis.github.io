@@ -1,11 +1,11 @@
 ---
 author: Davide Italiano
-date: 2023-04-21
+date: 2023-06-28
 title: Reggio Calabria
 image: "reggio.jpg"
 ---
 
-Un territorio da scoprire, ricco di storia e arte.
+*Un territorio da scoprire, ricco di storia e arte.*
 <!--more-->
 
 ***
